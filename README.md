@@ -54,11 +54,12 @@ This project uses an Instagram dataset imported from Kaggle to explore how diffe
 
 ## 📸 Visuals | صور من المشروع
 
-![Pivot Table Example](images/pivot_table_example.png)  
-![Hashtag Chart](images/hashtag_chart.png)  
+![The effect of interaction on impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/The-effect-of-interaction-on-impression.png)  
+![The Average interactions](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/Average-interactions.png)  
+![The Relation Save & Impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/Relation-Save%26Impression%20.png)  
+![The Relation Share & Impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/Relation-Share%26Impression.png)  
+![The Like Affect on Follows](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/The-Like-Affect-on-Follows.png)  
 
-> 🟥 To add images, place them in a folder named `images` and reference them like above.  
-> لإضافة الصور، ضعيها في مجلد اسمه `images` وارفقيها كما في الأمثلة.
 
 ---
 
