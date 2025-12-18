@@ -72,14 +72,28 @@ Shorter captions and higher save counts contribute more to reach than repeated h
 📝 Project Structure
 graphql
 Copy code
+
+
 ├── data/                  # CSV dataset from Kaggle
+
+
 ├── visuals/               # Exported static charts
+
+
 └── README.md              # Project documentation
+
+
 📈 License
+
+
 Open-source for educational purposes / مفتوح المصدر لأغراض تعليمية
 
 ✨ Author / المؤلف: Raghad Almarshadi
+
+
 ✨ GitHub: https://github.com/Raghad-ALmarshadi
+
+
 ✨ LinkedIn: https://www.linkedin.com/in/raghad-almarshadi-99b5bb25b/
 
 
