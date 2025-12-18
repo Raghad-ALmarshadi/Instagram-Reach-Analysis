@@ -54,11 +54,11 @@ This project uses an Instagram dataset imported from Kaggle to explore how diffe
 
 ## 📸 Visuals | صور من المشروع
 
-![The effect of interaction on impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/The-effect-of-interaction-on-impression.png)  
-![The Average interactions](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/Average-interactions.png)  
-![The Relation Save & Impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/Relation-Save%26Impression%20.png)  
-![The Relation Share & Impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/Relation-Share%26Impression.png)  
-![The Like Affect on Follows](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/The-Like-Affect-on-Follows.png)  
+![The effect of interaction on impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/ScreenShot/The-effect-of-interaction-on-impression.png)  
+![The Average interactions](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/ScreenShot/Average-interactions.png)  
+![The Relation Save & Impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/ScreenShot/Relation-Save%26Impression%20.png)  
+![The Relation Share & Impression](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/ScreenShot/Relation-Share%26Impression.png)  
+![The Like Affect on Follows](https://github.com/Raghad-ALmarshadi/Instagram-Reach-Analysis/blob/main/ScreenShot/The-Like-Affect-on-Follows.png)  
 
 
 ---
@@ -69,21 +69,17 @@ Shorter captions and higher save counts contribute more to reach than repeated h
 العناوين القصيرة وعدد الحفظات تلعب دورًا أكبر في الوصول من تكرار الهاشتاقات. كما أن زيارات الملف الشخصي ترتبط غالبًا بزيادة المتابعين.
 
 ---
+📝 Project Structure
+graphql
+Copy code
+├── data/                  # CSV dataset from Kaggle
+├── visuals/               # Exported static charts
+└── README.md              # Project documentation
+📈 License
+Open-source for educational purposes / مفتوح المصدر لأغراض تعليمية
 
-## 👩‍💻 Author | المؤلفة
+✨ Author / المؤلف: Raghad Almarshadi
+✨ GitHub: https://github.com/Raghad-ALmarshadi
+✨ LinkedIn: https://www.linkedin.com/in/raghad-almarshadi-99b5bb25b/
 
-[Raghad's LinkedIn](https://www.linkedin.com/in/raghad-almarshadi-99b5bb25b/)
 
----
-
-## 🧠 Inspiration | الإلهام
-
-Inspired by content from TheCleverProgrammer, Aman Kharwal, and Kaggle datasets.  
-استُلهم المشروع من محتوى TheCleverProgrammer وأمان خروال، وبيانات من Kaggle.
-
----
-
-## 💬 Feedback | الملاحظات
-
-Feel free to open an issue or share suggestions!  
-يسعدنا تلقي ملاحظاتكم واقتراحاتكم عبر صفحة المشروع.
